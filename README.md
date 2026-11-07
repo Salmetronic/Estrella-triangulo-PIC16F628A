@@ -1,3 +1,7 @@
+## 🛡️ Propiedad Intelectual y Marca
+© [2026] Salmetronic. Todos los derechos reservados. 
+Los archivos de diseño de hardware en este repositorio se comparten con fines educativos y de código abierto, **pero el nombre comercial "Salmetronic" y el logotipo oficial están protegidos**. Queda totalmente prohibida su utilización para la comercialización o distribución de productos de terceros sin autorización previa.
+
 <<<<<<< HEAD
 # EstrellaTriangulo
 =======
