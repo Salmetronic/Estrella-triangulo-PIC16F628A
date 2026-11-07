@@ -1,0 +1,23 @@
+# MPLAB X: archivos generados
+build/
+dist/debug/
+debug/
+*.o
+*.p1
+*.d
+*.pre
+*.sdb
+*.cmf
+*.elf
+*.map
+*.lst
+*.sym
+*.as
+*.obj
+
+# Configuracion privada de MPLAB X (rutas locales)
+nbproject/private/
+
+# Sistema
+Thumbs.db
+.DS_Store
